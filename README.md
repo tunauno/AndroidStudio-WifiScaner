@@ -1,0 +1,2 @@
+# AndroidStudio-WifiScaner
+這是一個可以再android10運行的wifi收尋，可以將附近的wifi詳細參數顯示出來
